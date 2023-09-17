@@ -1,8 +1,8 @@
 # to run: python centered-data.py
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt 
-import seaborn 
+import matplotlib.pyplot as plt
+import seaborn
 
 coffee = pd.read_csv('starbucks_customers.csv')
 
