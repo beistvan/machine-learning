@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn
 
-coffee = pd.read_csv('starbucks_customers.csv')
+coffee = pd.read_csv('../data/starbucks_customers.csv')
 
 ages = coffee['age']
 
